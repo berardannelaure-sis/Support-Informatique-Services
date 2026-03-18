@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /contactbis.html
 
-Sitemap: https://TONPSEUDO.github.io/support-info-services/sitemap.xml
+Sitemap: https://berardannelaure.github.io/support-info-services/sitemap.xml
